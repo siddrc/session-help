@@ -1,5 +1,4 @@
 # Use of Redis as a Session Store
-my new github repository
 
 Note to Nabin.
 
